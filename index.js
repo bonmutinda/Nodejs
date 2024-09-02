@@ -1,1 +1,1 @@
-console.log('Fuck!, this is Bornvejah')
+console.log('This is Bornvejah')
